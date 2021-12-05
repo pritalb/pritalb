@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pritalb
 - 👀 I’m interested in being a Language-Agnostic Programmer.
-- 🌱 I’m currently learning Django and Javascript. I'm also looking forward to learning Rust and Elixir in future.
+- 🌱 I’m currently learning Django and Javascript. I'm also looking forward to learning Rust, C++, Erlang and Elixir in future.
 - 📫 How to reach me:
    My ID is Pritalb#1979 on Discord.
 
