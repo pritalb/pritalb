@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pritalb
 - 👀 I’m interested in being a Language-Agnostic Programmer.
-- 🌱 I’m currently learning Django and Javascript. I'm also looking forward to learning Rust, C++, Erlang and Elixir in future.
+- 🌱 I’m currently working on AI\ML projects. I mainly use Python, JavaScript, C# as my programming languages of choice.
 - 📫 How to reach me: \
    Discord: Pritalb#1979 \
    Email: work.prital@gmail.com
