@@ -15,7 +15,7 @@ My core research focuses on **Continual Learning** to solve the challenge of "ca
 
 #### 🌱 Current Focus: Distributed AI & Agentic Systems
 
-I am currently designing and prototyping a new architecture for distributed continual learning, **"Prototypal Broadcast Networks,"** aimed at enabling collective intelligence in multi-agent systems.
+I am currently designing and prototyping a new architecture for distributed continual learning, **"Prototypical Broadcast Networks,"** aimed at enabling collective intelligence in multi-agent systems.
 
 ---
 
